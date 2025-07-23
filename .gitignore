@@ -41,3 +41,9 @@ yarn-error.log*
 /playwright-report/
 /blob-report/
 /playwright/*
+
+
+.venv/*
+
+# gemini-fullstack reference (embedded git repo)
+gemini-fullstack/
