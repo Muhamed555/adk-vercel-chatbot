@@ -46,4 +46,4 @@ yarn-error.log*
 .venv/*
 
 # gemini-fullstack reference (embedded git repo)
-gemini-fullstack/
+gemini-fullstack/node_modules/*
